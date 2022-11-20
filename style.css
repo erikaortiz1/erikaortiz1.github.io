@@ -6,7 +6,12 @@ body {
     background-color: rgb(194, 194, 255);
   }
 
-
+n {
+    font-family:serif;
+    font-size: x-large;
+    color: blanchedalmond;
+    background-color: rgb(255, 0, 43);
+}
   t {
     font-size: 200%;
     font-weight: bold;
@@ -22,4 +27,7 @@ body {
 
   x {
     border: rgb(14, 2, 58) 5px dotted;
+  }
+  body{
+    margin: 10%;
   }
