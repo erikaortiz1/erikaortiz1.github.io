@@ -1,0 +1,25 @@
+span{
+    background-color: beige;
+}
+ 
+body {
+    background-color: rgb(194, 194, 255);
+  }
+
+
+  t {
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    text-shadow: gray 6px 6px;
+    text-transform: uppercase;
+  }
+
+  y {
+    text-transform: uppercase;
+  } 
+
+  x {
+    border: rgb(14, 2, 58) 5px dotted;
+  }
